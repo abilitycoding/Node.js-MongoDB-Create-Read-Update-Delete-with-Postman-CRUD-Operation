@@ -1,4 +1,4 @@
 PORT = 5000
 CLIENT_URL= http://localhost:3000
 Mongo_URL_LOCAL= mongodb://localhost:27017/crud-operation
-Mongo_URL_Cloud=mongodb+srv://codingcareerschools:AMau6mjhzGJzC9g7@cluster0.s756qei.mongodb.net/
+Mongo_URL_Cloud=
